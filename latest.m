@@ -82,7 +82,7 @@ function serviceTime=Asg(customerAmt)
                  serviceEnd(m) = serviceTime(m) + sv(m);
      
              end
-         end
+         endabc
      end
      
      disp('Cus_Num || Generated Num || Inter_Time || Arriv Time || RNserv || Serv Begin || Serv Time || Serv End || Time Spend || in queue');
